@@ -18,7 +18,7 @@ Per creare il db e dare accesso all'utente postgres mentre la tabella verrà cre
 Per avviare il backend lanciare l'applicazione **PasticceriaApplication.java** ( alla quale è possibile fare chiamate REST all'indirizzo http://localhost:8080) ed eseguire il seguente comando per lanciare il lato frontend:
 
 ```
-npm install
+npm start
 ```
 
 Che avvierà una nuova sessione all'indirizzo http://localhost:3000
